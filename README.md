@@ -4,12 +4,14 @@
 
 🔭  Software Engineer / Android Developer  sharing about my Projects in Android <br/>
 
-🚀 I’ve worked on various projects, including an e-commerce app and a news app, which have honed my skills in app optimization and performance enhancement. As a freelancer, I’ve enjoyed the challenge of turning ideas into functional and aesthetically pleasing apps.<br/>
+🚀 I’ve worked on  projects, including an e-commerce app , Movies App  and a news app, which have honed my skills in app optimization and performance enhancement.<br/>
 
-🌱  I’m always eager to learn new technologies and best practices to improve my craft. Currently, I’m actively seeking a position at a reputable company where I can contribute to exciting projects and grow alongside a talented team.<br/>
+🌱  I’m always eager to learn new technologies and best practices to improve my craft. <br/>
 
 📫 Feel free to reach out to me for collaboration or just to chat about all things Android! ,  mahmoudalataly1234@gmail.com<br/>
 
+
+[![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malekel3alamy&count_private=true&show_icons=true&theme=radical&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
